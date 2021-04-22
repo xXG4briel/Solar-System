@@ -7,6 +7,6 @@
 
 
 # Monitor utilizado: 
-![LG25UM58](https://images.vexels.com/media/users/3/135953/isolated/preview/6a3f9fbf604cadf1452277eebd7dac82-iacute-cone-de-monitor-plano-e-brilhante-by-vexels.png)
+__LG25UM58__
 
 
