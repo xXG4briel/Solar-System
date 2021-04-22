@@ -6,6 +6,6 @@
 
 
 
-# Monitor utilizado: _LG25UM58_
+> Monitor utilizado: __LG25UM58__
 
 
